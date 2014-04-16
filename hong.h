@@ -1,0 +1,43 @@
+#define UP 0x4800
+#define DOWN 0x5000
+#define LEFT 0x4b00
+#define RIGHT 0x4d00
+#define ESC 0x011b
+#define SPACE 0x3920
+#define ENTER 0x1c0d
+#define BACKSPACE 0xe08
+
+#define A 0x1e61
+#define B 0x3062
+#define C 0x2e63
+#define D 0x2064
+#define E 0x1265
+#define F 0x2166
+#define G 0x2267
+#define H 0x2368
+#define I 0x1769
+#define J 0x246a
+#define K 0x256b
+#define L 0x266c
+#define M 0x326d
+#define N 0x316e
+#define O 0x186f
+#define P 0x1970
+#define Q 0x1071
+#define R 0x1372
+#define S 0x1f73
+#define T 0x1474
+#define U 0x1675
+#define V 0x2f76
+#define W 0x1177
+#define X 0x2d78
+#define Y 0x1579
+#define Z 0x2c7a
+
+
+#define PRESS 0
+#define HIGHLIGHT 1
+#define NORMALSTATE 2
+#define PI 3.1415926
+#define SPOTNUM 34
+#define MAX 5000.0
